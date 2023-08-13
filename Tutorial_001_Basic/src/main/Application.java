@@ -6,5 +6,6 @@ public class Application {
 		System.out.println("Java con versionamiento en GitHub");
 		
 		Persona persona = new Persona();
+		persona.setApellido("Mesa");
 	}
 }
