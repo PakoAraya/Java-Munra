@@ -17,16 +17,16 @@ public class Persona {
 		return nombre;
 	}
 	
-	public String setNombre(String nombre) {
-		return this.nombre = nombre;
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
 	}
 	
 	public String getApellido() {
 		return apellido;
 	}
 	
-	public String setApellido(String apellido) {
-		return this.apellido = apellido;
+	public void setApellido(String apellido) {
+		this.apellido = apellido;
 	}
 	
 }
