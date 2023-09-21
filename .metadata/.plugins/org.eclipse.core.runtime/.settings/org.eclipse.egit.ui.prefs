@@ -1,0 +1,7 @@
+StagingView_SyncWithSelection=false
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>Se instancia clase Persona() con paso de parametros.&\#x0A;&\#x0A;Se hacen cambios con la clase main en la instancia de persona, donde&\#x0A;se crea objeto persona con paso de parametros, donde se modifica la&\#x0A;instanciacion del objeto y tambien se modifican los returns de la clase&\#x0A;Persona en su correspondiente archivo.&\#x0A;Ahora este commit y carga al repositorio remoto se hizo desde eclipse.</message>\n<message>Commit hecho desde eclipse.&\#x0A;&\#x0A;Estamos probando la vista de gestion del VCS a traves de eclipse IDE&\#x0A;para ver la gestion de proyectos y versionados desde eclipse.</message>\n</messages>
+eclipse.preferences.version=1
+org.eclipse.egit.ui.githistorypage.showallfilter=SHOWALLREPO
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\n<FilterCache/>
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
