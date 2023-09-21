@@ -2918,3 +2918,21 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY net.certiv.tools.indentguide 1 0 2023-09-21 18:49:07.770
 !MESSAGE Starter:130 	Indent Guide: painter installed
+
+!ENTRY net.certiv.tools.indentguide 1 0 2023-09-21 18:53:26.152
+!MESSAGE Starter:115 	Indent Guide: painter allowed for 'Application.java' [Java Source File]
+
+!ENTRY net.certiv.tools.indentguide 1 0 2023-09-21 18:53:26.153
+!MESSAGE Starter:130 	Indent Guide: painter installed
+
+!ENTRY net.certiv.tools.indentguide 1 0 2023-09-21 18:53:42.192
+!MESSAGE Starter:115 	Indent Guide: painter allowed for 'Persona.java' [Java Source File]
+
+!ENTRY net.certiv.tools.indentguide 1 0 2023-09-21 18:53:42.194
+!MESSAGE Starter:130 	Indent Guide: painter installed
+
+!ENTRY net.certiv.tools.indentguide 1 0 2023-09-21 18:53:44.018
+!MESSAGE Starter:115 	Indent Guide: painter allowed for 'Ejemplo.java' [Java Source File]
+
+!ENTRY net.certiv.tools.indentguide 1 0 2023-09-21 18:53:44.019
+!MESSAGE Starter:130 	Indent Guide: painter installed
