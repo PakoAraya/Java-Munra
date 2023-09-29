@@ -3,6 +3,7 @@
 # Compiled class file
 .metadata/
 *.class
+/.project 
 
 # Log file
 *.log
