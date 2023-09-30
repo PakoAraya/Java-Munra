@@ -1,7 +1,7 @@
 
 # /.class/
 # Compiled class file
-.metadata/
+.metadata/*
 *.class
 /.project 
 
