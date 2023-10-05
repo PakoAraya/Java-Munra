@@ -7,12 +7,13 @@ public class EmpleadoPoo extends PersonaPoo{
 	
 	//Constructor clase EmpleadoPoo
 	public EmpleadoPoo() {
-		System.out.println("Constructor vacio de la clase EmpleadoPoo");
+		this.idEmpleado = ++EmpleadoPoo.contadorEmpleado;
 	}
 	
 	public EmpleadoPoo(String nombre, double sueldo) {
-		super(nombre);
-		this.idEmpleado = ++contadorEmpleado;
+		//super(nombre);
+		this();
+		this.nombre = nombre;
 		this.sueldo = sueldo;
 	}
 

@@ -12,8 +12,14 @@
     <fullyQualifiedTypeName name="constructores.Persona"/>
     <fullyQualifiedTypeName name="constructores.PersonaStatic"/>
     <fullyQualifiedTypeName name="main.Persona.Imprimir"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="herencia.PersonaPoo"/>
-    <fullyQualifiedTypeName name="herencia.EmpleadoPoo"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="herencia.PersonaPoo"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="herencia.Cliente"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="herencia.EmpleadoPoo"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.VarHandle"/>
+    <fullyQualifiedTypeName name="test.TestOperaciones"/>
+    <fullyQualifiedTypeName name="operaciones.Operaciones"/>
 </qualifiedTypeNameHistroy>
