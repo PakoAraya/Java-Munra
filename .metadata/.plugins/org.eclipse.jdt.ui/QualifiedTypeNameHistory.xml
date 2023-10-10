@@ -29,11 +29,11 @@
     <fullyQualifiedTypeName name="com.gm.mundopc.DispositivoEntrada"/>
     <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.resources.compiler"/>
-    <fullyQualifiedTypeName name="com.gm.mundopc.Raton"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.gm.mundopc.Monitor"/>
     <fullyQualifiedTypeName name="com.gm.mundopc.Teclado"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.gm.mundopc.Raton"/>
     <fullyQualifiedTypeName name="com.gm.mundopc.Computadora"/>
     <fullyQualifiedTypeName name="com.gm.mundopc.Orden"/>
 </qualifiedTypeNameHistroy>
