@@ -9,3 +9,9 @@ bin/
 .idea/
 *.iml
 out/
+
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar bibliotecas y dependencias
+lib/
