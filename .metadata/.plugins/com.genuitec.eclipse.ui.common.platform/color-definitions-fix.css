@@ -1771,6 +1771,7 @@ IEclipsePreferences#org-eclipse-jdt-ui {
 		'java_operator=207,207,207'
 		'java_single_line_comment=217,217,217'
 		'java_string=247,197,39'
+		'javadocElementsStyling.darkModeDefaultColors=true'
 		'matchingBracketsColor=244,245,246'
 		'pf_coloring_argument=56,189,255'
 		'pf_coloring_assignment=237,237,237'
@@ -2042,6 +2043,10 @@ IEclipsePreferences#org-eclipse-team-cvs-ui {
 		'pref_console_message_color=237,237,237'
 		'pref_console_command_color=217,217,217'
 		'pref_console_error_color=156,248,40'
+}
+IEclipsePreferences#org-eclipse-tm-terminal-control {
+	preferences:
+		'TerminalPrefInvertColors=false'
 }
 IEclipsePreferences#org-eclipse-ui-editors {
 	preferences:

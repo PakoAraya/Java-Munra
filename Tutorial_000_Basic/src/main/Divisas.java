@@ -2,6 +2,8 @@ package main;
 
 import java.util.Scanner;
 
+import javax.sound.midi.Soundbank;
+
 public class Divisas {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
