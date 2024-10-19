@@ -2,6 +2,7 @@
 .classpath
 .project
 .settings/
+.metadata/
 bin/
 
 # IntelliJ IDEA project files
