@@ -3,6 +3,9 @@ package com.javain12hours.ejemplo1;
 //Vamos a explotar un error a proposito para un desbordamiento
 public class _14Desbordamiento {
 
+
+	main
+
 	public static void main(String[] args) {
 		int vector[] = new int[3];
 		vector[0] = 1;
