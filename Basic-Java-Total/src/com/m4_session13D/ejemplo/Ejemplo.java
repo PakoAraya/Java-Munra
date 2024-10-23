@@ -83,7 +83,27 @@ public class Ejemplo {
    //.sorted((alumnoA, alumnoB) -> Double.compare(alumnoB.calificacion, alumnoA.calificacion))
      .sorted((alumnoA, alumnoB) -> Double.compare(alumnoA.calificacion, alumnoB.calificacion))
      .forEach(System.out::println);
+  
+     //DISTINCT en Listas
+     //Entrega numeros unicos (Sin duplicados)
+     List<Integer> numerosD = Arrays.asList(1, 1, 1, 2, 4, 3, 5, 1);
+     System.out.println("\nNumeros Unicos con Distinct");
+     numerosD
+     .stream()
+     .distinct()
+     .forEach(System.out::println);
      
+     
+   //Por supuesto que todos estos elementos se pueden mezclar entre si estas propiedades
+     //Entrega numeros unicos (Sin duplicados)
+     List<Integer> numerosE = Arrays.asList(1, 1, 1, 2, 4, 3, 5, 1);
+     System.out.println("\nNumeros Unicos con Distinct, Solter y Filter");
+     numerosD
+     .stream()
+     .distinct()
+     .sorted((a,b) -> Integer.compare(a, b))
+     .filter(numero -> numero >=3)
+     .forEach(System.out::println);
  }
 }
 
